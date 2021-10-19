@@ -23,7 +23,7 @@ public class NameRetrieval {
       // search web page for name property
       String inputLine;  
       String desiredProperty = "property=\"name\"";
-      String name="not found";
+      String name = "not found";
 
       while ((inputLine = inputURL.readLine()) != null) {
 
