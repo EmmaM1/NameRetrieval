@@ -39,9 +39,9 @@ public class NameRetrieval {
       // output name to user
       System.out.println("Name: " + name);
 
-   } catch (IOException e) {
-     e.printStackTrace();
-   }
+    } catch (IOException e) {
+      e.printStackTrace();
+    }
 
   }
 
