@@ -47,4 +47,4 @@ public class NameRetrieval {
 
 }
 
-//doesn't work if url is not quite same as id, e.g. sdr1, gm1r07
+//doesn't work if url is not quite same as id, e.g. sdr1, gm1r07, as url is redirected
